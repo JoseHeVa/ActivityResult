@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.activityresult.app-merged_res-35:/layout_activity_segunda.xml.flat",
+        "source": "com.example.activityresult.app-main-37:/layout/activity_segunda.xml"
+    },
+    {
+        "merged": "com.example.activityresult.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.example.activityresult.app-main-37:/layout/activity_main.xml"
+    }
+]

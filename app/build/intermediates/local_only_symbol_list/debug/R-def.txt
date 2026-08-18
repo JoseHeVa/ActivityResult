@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+color purple_500
+color white
+id btnCancelar
+id btnEnviar
+id btnSolicitarNombre
+id etNombre
+id tvResultado
+layout activity_main
+layout activity_segunda
+string app_name
+style AppTheme
